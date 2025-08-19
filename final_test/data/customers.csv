@@ -1,0 +1,21 @@
+customer_id,name,email,age,city,signup_date
+1,Customer 1,customer1@example.com,56,Rio de Janeiro,2021-10-16
+2,Customer 2,customer2@example.com,46,Curitiba,2020-04-24
+3,Customer 3,customer3@example.com,32,Porto Alegre,2020-01-26
+4,Customer 4,customer4@example.com,60,São Paulo,2022-01-29
+5,Customer 5,customer5@example.com,25,Curitiba,2020-10-08
+6,Customer 6,customer6@example.com,38,Rio de Janeiro,2020-09-07
+7,Customer 7,customer7@example.com,56,Porto Alegre,2020-08-16
+8,Customer 8,customer8@example.com,36,Curitiba,2020-05-22
+9,Customer 9,customer9@example.com,40,São Paulo,2022-01-24
+10,Customer 10,customer10@example.com,28,São Paulo,2020-04-14
+11,Customer 11,customer11@example.com,28,Belo Horizonte,2021-11-23
+12,Customer 12,customer12@example.com,41,Belo Horizonte,2022-01-28
+13,Customer 13,customer13@example.com,53,Rio de Janeiro,2022-07-02
+14,Customer 14,customer14@example.com,57,Curitiba,2021-07-12
+15,Customer 15,customer15@example.com,41,Curitiba,2020-03-30
+16,Customer 16,customer16@example.com,20,Belo Horizonte,2021-08-27
+17,Customer 17,customer17@example.com,39,Curitiba,2021-03-08
+18,Customer 18,customer18@example.com,19,Curitiba,2020-02-02
+19,Customer 19,customer19@example.com,41,São Paulo,2020-01-31
+20,Customer 20,customer20@example.com,61,Belo Horizonte,2020-04-05
